@@ -33,7 +33,7 @@ var balls = document.getElementsByClassName("ball");
 
 I will keep working on this project and any contibutions is as well welcome.
 
-Please make sure to update tests as appropriate.
+Please make sure to update eyes as appropriate.
 
 ## Authors and acknowledgment
 Thanks to my Professional Certificate in Coding: Full Stack Development with MERN professors
